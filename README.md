@@ -1,8 +1,8 @@
-# IoT-Based-Smart-Agriculture-System-for-Soil-Condition-Monitoring-and-Crop-Prediction
+# 🌱 IoT-Based Smart Agriculture System for Soil Condition Monitoring and Crop Prediction
 This is my project Git Repository.
-🌱 IoT-Based Smart Agriculture System for Soil Condition Monitoring and Crop Prediction
 
 An IoT + ML–powered solution designed to help farmers monitor real-time soil conditions and receive accurate crop predictions based on environmental data. This project integrates sensors, ESP8266 IoT hardware, machine learning, Streamlit web app, and Power BI dashboard to enable smart, sustainable agriculture.
+
 📌 Project Overview
 
 Traditional farming often suffers due to poor crop selection and lack of real-time soil monitoring.
